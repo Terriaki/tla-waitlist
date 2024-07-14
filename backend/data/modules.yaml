@@ -117,6 +117,7 @@ from_meta:
   - base: Remote Tracking Computer II
   - base: Dark Blood Capacitor Power Relay
   - base: Multispectrum Shield Hardener II
+  - base: Small Tractor Beam I
   - base: Large Shield Extender II
     abyssal: Large Abyssal Shield Extender
   - base: X-Large Shield Booster II
@@ -148,7 +149,7 @@ from_meta:
     abyssal: Abyssal Gyrostabilizer
   - base: Corelum C-Type 50MN Microwarpdrive
     abyssal: 50MN Abyssal Microwarpdrive 
-
+  
 
 from_attribute:
   - base:
@@ -187,7 +188,6 @@ accept_t1: # Meta information missing, but luckily we can just match it naively
   - Light Shield Maintenance Bot II
   - Light Armor Maintenance Bot II
   - Light Hull Maintenance Bot II
-  - Small Tractor Beam II
   
 identification: # Modules/groups we use to look at to figure out what we're flying
   - Damage Control II
